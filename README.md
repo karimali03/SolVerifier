@@ -9,7 +9,6 @@ SolVerifier supports writing solutions in the following programming languages:
 - C++
 - C
 - Java
-- TypeScript
 - JavaScript
 - Python
 

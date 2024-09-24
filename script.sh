@@ -34,6 +34,7 @@ compile_file "./generator/$generator" ; generator_exe=$filename
 compile_file "./checker/$checker"  ; checker_exe=$filename
 wait 
 
+
 print_bold_green "All files compiled successfully"
 
 

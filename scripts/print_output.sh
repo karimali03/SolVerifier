@@ -20,7 +20,7 @@ IO_section(){
 
 wrong_test(){
     echo "### Test case $3: $4" | tee -a $1 $2  > /dev/null
-    echo "**Message:**" ${text#$4} | tee -a $1 $2  > /dev/null
+    echo "**Message:**" $7 | tee -a $1 $2  > /dev/null
     echo "**Correct Time :** $5 ms" | tee -a $1 $2  > /dev/null
     echo "**Test Time :** $6 ms" | tee -a $1 $2  > /dev/null
     IO_section $1 ; IO_section $2
@@ -42,15 +42,15 @@ print_output(){
         echo "---" >> $1 
         passed=$(( passed + 1 ))
     elif [[ $text == "wrong answer"* ]]; then
-        wrong_test $1 $2 $3 "Wrong Answer" $5 $6
+        wrong_test $1 $2 $3 "Wrong Answer" $5 $6 "${text#"wrong answer"}"
     elif [[ $text == "wrong output format"* ]]; then
-        wrong_test $1 $2 $3 "Peresentation Error" $5 $6
+        wrong_test $1 $2 $3 "Peresentation Error" $5 $6 "${text#"wrong output format"}"
     elif [[ $text == "FAIL"* ]]; then
-        wrong_test $1 $2 $3 "Fail" $5 $6
+        wrong_test $1 $2 $3 "Fail" $5 $6 "${text#"FAIL"}"
     elif [[ $text == "unexpected eof"* ]]; then
-        wrong_test $1 $2 $3 "Unexpected EOF" $5 $6
+        wrong_test $1 $2 $3 "Unexpected EOF" $5 $6 "${text#"unexpected eof"}"
     else
-        wrong_test $1 $2 $3 "Unknown" $5 $6
+        wrong_test $1 $2 $3 "Unknown" $5 $6 "${text}"
     fi    
 
 }

@@ -47,6 +47,7 @@ max_test_time=0
 min_correct_time=1000000
 max_correct_time=0
 
+print_cyan "Running test cases......"
 for ((i=1; i<=t; i++))
 do
     $generator_exe ${i} > stream/input.in 

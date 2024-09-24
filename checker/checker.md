@@ -16,7 +16,7 @@ This repository contains various solution checkers implemented in C++. These che
 - **`yesno.cpp`**: Compares a single "yes" or "no" value, case insensitive.
 
 # Note
-These checkers are part of the [testlib library](https://codeforces.com/portal/page?view=testlib). 
+These checkers are part of the [testlib library](https://github.com/MikeMirzayanov/testlib/tree/master/checkers). 
 You can use the `custom_chk.cpp` to start creating your own checker or modify existing ones to fit your needs.
 
 Feel free to explore and customize the checkers for your projects!

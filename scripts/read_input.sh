@@ -4,10 +4,23 @@
 
 read_file(){
     read -p "$(print_blue "Enter name of $1 file [with extension]: ")"  file
+
+    while [[ "$file" == "ls" ]] ; do
+    ls   ./$1/
+    read -p "$(print_blue "Enter name of $1 file [with extension]: ") " file
+    done
+
     until [ -f "./$1/"$file ]
     do
     print_bold_red "File not found!"
     read -p "$(print_blue "Enter name of $1 file [with extension]: ") " file
+
+    while [[ "$file" == "ls" ]] ; do
+    ls  ./$1/
+    read -p "$(print_blue "Enter name of $1 file [with extension]: ") " file
+    done
+
+    
     done
 }
 

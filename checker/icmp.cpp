@@ -1,4 +1,4 @@
-#include "testlib.h"
+#include "../lib/testlib.h"
 
 int main(int argc, char *argv[]) {
     setName("compare two signed int%d's", 8 * int(sizeof(int)));

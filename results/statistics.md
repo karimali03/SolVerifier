@@ -1,10 +1,10 @@
 # SolVerifier Statistics
-Test Solution Passed ( 51 / 100 ) Tests
+Test Solution Passed ( 26 / 50 ) Tests
 ### Correct Solution
-**Avg Time :** 8.17 ms
-**Min Time :** 6.77 ms
-**Max Time :** 19.43 ms
+**Avg Time :** 7.43 ms
+**Min Time :** 6.42 ms
+**Max Time :** 13.58 ms
 ### Test Solution
-**Avg Time :** 7.19 ms
-**Min Time :** 6.01 ms
-**Max Time :** 17.19 ms
+**Avg Time :** 7.39 ms
+**Min Time :** 6.42 ms
+**Max Time :** 12.97 ms

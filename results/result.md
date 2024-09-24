@@ -1,10 +1,10 @@
 # SolVerifier Results
 ### Test case 1: OK
-**Correct Time :** 8.75 ms
-**Test Time :** 6.64 ms
+**Correct Time :** 13.58 ms
+**Test Time :** 12.17 ms
 **Input**
 ```
-39
+959139
 ```
 **Correct Output**
 ```
@@ -16,11 +16,11 @@
 ```
 ---
 ### Test case 2: OK
-**Correct Time :** 6.77 ms
-**Test Time :** 6.21 ms
+**Correct Time :** 7.11 ms
+**Test Time :** 6.42 ms
 **Input**
 ```
-59
+9859
 ```
 **Correct Output**
 ```
@@ -32,11 +32,11 @@
 ```
 ---
 ### Test case 3: OK
-**Correct Time :** 7.14 ms
-**Test Time :** 6.35 ms
+**Correct Time :** 6.42 ms
+**Test Time :** 6.48 ms
 **Input**
 ```
-87
+125987
 ```
 **Correct Output**
 ```
@@ -48,11 +48,11 @@
 ```
 ---
 ### Test case 4: OK
-**Correct Time :** 7.51 ms
-**Test Time :** 7.78 ms
+**Correct Time :** 10.55 ms
+**Test Time :** 12.39 ms
 **Input**
 ```
-11
+209411
 ```
 **Correct Output**
 ```
@@ -64,11 +64,11 @@
 ```
 ---
 ### Test case 5: OK
-**Correct Time :** 7.29 ms
-**Test Time :** 6.88 ms
+**Correct Time :** 12.42 ms
+**Test Time :** 12.97 ms
 **Input**
 ```
-39
+325539
 ```
 **Correct Output**
 ```
@@ -80,11 +80,11 @@
 ```
 ---
 ### Test case 6: OK
-**Correct Time :** 7.51 ms
-**Test Time :** 6.09 ms
+**Correct Time :** 12.78 ms
+**Test Time :** 12.90 ms
 **Input**
 ```
-59
+376259
 ```
 **Correct Output**
 ```
@@ -96,11 +96,11 @@
 ```
 ---
 ### Test case 7: OK
-**Correct Time :** 19.43 ms
-**Test Time :** 15.78 ms
+**Correct Time :** 10.34 ms
+**Test Time :** 11.25 ms
 **Input**
 ```
-87
+492387
 ```
 **Correct Output**
 ```
@@ -112,11 +112,11 @@
 ```
 ---
 ### Test case 8: OK
-**Correct Time :** 15.44 ms
-**Test Time :** 6.35 ms
+**Correct Time :** 7.22 ms
+**Test Time :** 6.92 ms
 **Input**
 ```
-15
+608515
 ```
 **Correct Output**
 ```
@@ -128,11 +128,11 @@
 ```
 ---
 ### Test case 9: OK
-**Correct Time :** 8.57 ms
-**Test Time :** 6.52 ms
+**Correct Time :** 13.48 ms
+**Test Time :** 11.13 ms
 **Input**
 ```
-39
+691939
 ```
 **Correct Output**
 ```
@@ -144,12 +144,12 @@
 ```
 ---
 ### Test case 10: Wrong Answer
-**Message:** 1st lines differ - expected: '0', found: '1'
-**Correct Time :** 8.79 ms
-**Test Time :** 8.79 ms
+**Message:** expected 0, found 1
+**Correct Time :** 6.60 ms
+**Test Time :** 6.46 ms
 **Input**
 ```
-18
+30518
 ```
 **Correct Output**
 ```
@@ -161,12 +161,12 @@
 ```
 ---
 ### Test case 11: Wrong Answer
-**Message:** 1st lines differ - expected: '0', found: '1'
-**Correct Time :** 9.61 ms
-**Test Time :** 8.05 ms
+**Message:** expected 0, found 1
+**Correct Time :** 6.63 ms
+**Test Time :** 6.58 ms
 **Input**
 ```
-46
+146646
 ```
 **Correct Output**
 ```
@@ -178,12 +178,12 @@
 ```
 ---
 ### Test case 12: Wrong Answer
-**Message:** 1st lines differ - expected: '0', found: '1'
-**Correct Time :** 9.44 ms
-**Test Time :** 7.40 ms
+**Message:** expected 0, found 1
+**Correct Time :** 6.64 ms
+**Test Time :** 6.57 ms
 **Input**
 ```
-70
+230070
 ```
 **Correct Output**
 ```
@@ -195,12 +195,12 @@
 ```
 ---
 ### Test case 13: Wrong Answer
-**Message:** 1st lines differ - expected: '0', found: '1'
-**Correct Time :** 7.82 ms
-**Test Time :** 6.63 ms
+**Message:** expected 0, found 1
+**Correct Time :** 6.61 ms
+**Test Time :** 6.54 ms
 **Input**
 ```
-94
+313494
 ```
 **Correct Output**
 ```
@@ -212,12 +212,12 @@
 ```
 ---
 ### Test case 14: Wrong Answer
-**Message:** 1st lines differ - expected: '0', found: '1'
-**Correct Time :** 7.03 ms
-**Test Time :** 6.24 ms
+**Message:** expected 0, found 1
+**Correct Time :** 6.69 ms
+**Test Time :** 6.73 ms
 **Input**
 ```
-18
+396918
 ```
 **Correct Output**
 ```
@@ -229,12 +229,12 @@
 ```
 ---
 ### Test case 15: Wrong Answer
-**Message:** 1st lines differ - expected: '0', found: '1'
-**Correct Time :** 6.98 ms
-**Test Time :** 6.37 ms
+**Message:** expected 0, found 1
+**Correct Time :** 6.58 ms
+**Test Time :** 6.54 ms
 **Input**
 ```
-46
+513046
 ```
 **Correct Output**
 ```
@@ -246,12 +246,12 @@
 ```
 ---
 ### Test case 16: Wrong Answer
-**Message:** 1st lines differ - expected: '0', found: '1'
-**Correct Time :** 7.92 ms
+**Message:** expected 0, found 1
+**Correct Time :** 6.53 ms
 **Test Time :** 6.62 ms
 **Input**
 ```
-74
+629174
 ```
 **Correct Output**
 ```
@@ -263,12 +263,12 @@
 ```
 ---
 ### Test case 17: Wrong Answer
-**Message:** 1st lines differ - expected: '0', found: '1'
-**Correct Time :** 6.93 ms
-**Test Time :** 6.30 ms
+**Message:** expected 0, found 1
+**Correct Time :** 6.54 ms
+**Test Time :** 6.59 ms
 **Input**
 ```
-94
+679894
 ```
 **Correct Output**
 ```
@@ -280,12 +280,12 @@
 ```
 ---
 ### Test case 18: Wrong Answer
-**Message:** 1st lines differ - expected: '0', found: '1'
-**Correct Time :** 7.03 ms
-**Test Time :** 6.28 ms
+**Message:** expected 0, found 1
+**Correct Time :** 6.60 ms
+**Test Time :** 6.54 ms
 **Input**
 ```
-22
+796022
 ```
 **Correct Output**
 ```
@@ -297,12 +297,12 @@
 ```
 ---
 ### Test case 19: Wrong Answer
-**Message:** 1st lines differ - expected: '0', found: '1'
-**Correct Time :** 8.34 ms
-**Test Time :** 7.12 ms
+**Message:** expected 0, found 1
+**Correct Time :** 6.79 ms
+**Test Time :** 6.58 ms
 **Input**
 ```
-46
+879446
 ```
 **Correct Output**
 ```
@@ -314,12 +314,12 @@
 ```
 ---
 ### Test case 20: Wrong Answer
-**Message:** 1st lines differ - expected: '0', found: '1'
-**Correct Time :** 7.63 ms
-**Test Time :** 6.47 ms
+**Message:** expected 0, found 1
+**Correct Time :** 6.59 ms
+**Test Time :** 6.57 ms
 **Input**
 ```
-40
+405440
 ```
 **Correct Output**
 ```
@@ -331,11 +331,11 @@
 ```
 ---
 ### Test case 21: OK
-**Correct Time :** 6.92 ms
-**Test Time :** 6.01 ms
+**Correct Time :** 6.61 ms
+**Test Time :** 6.54 ms
 **Input**
 ```
-69
+521569
 ```
 **Correct Output**
 ```
@@ -347,11 +347,11 @@
 ```
 ---
 ### Test case 22: OK
-**Correct Time :** 8.09 ms
-**Test Time :** 7.48 ms
+**Correct Time :** 6.53 ms
+**Test Time :** 6.59 ms
 **Input**
 ```
-89
+572289
 ```
 **Correct Output**
 ```
@@ -363,11 +363,11 @@
 ```
 ---
 ### Test case 23: OK
-**Correct Time :** 7.02 ms
-**Test Time :** 7.62 ms
+**Correct Time :** 6.58 ms
+**Test Time :** 8.23 ms
 **Input**
 ```
-17
+688417
 ```
 **Correct Output**
 ```
@@ -379,11 +379,11 @@
 ```
 ---
 ### Test case 24: OK
-**Correct Time :** 6.83 ms
-**Test Time :** 6.77 ms
+**Correct Time :** 6.51 ms
+**Test Time :** 6.57 ms
 **Input**
 ```
-41
+771841
 ```
 **Correct Output**
 ```
@@ -395,11 +395,11 @@
 ```
 ---
 ### Test case 25: OK
-**Correct Time :** 7.80 ms
-**Test Time :** 7.95 ms
+**Correct Time :** 6.63 ms
+**Test Time :** 6.55 ms
 **Input**
 ```
-69
+887969
 ```
 **Correct Output**
 ```
@@ -411,11 +411,11 @@
 ```
 ---
 ### Test case 26: OK
-**Correct Time :** 7.04 ms
-**Test Time :** 6.65 ms
+**Correct Time :** 6.65 ms
+**Test Time :** 6.57 ms
 **Input**
 ```
-93
+971393
 ```
 **Correct Output**
 ```
@@ -427,11 +427,11 @@
 ```
 ---
 ### Test case 27: OK
-**Correct Time :** 6.86 ms
-**Test Time :** 6.34 ms
+**Correct Time :** 6.54 ms
+**Test Time :** 6.71 ms
 **Input**
 ```
-17
+54817
 ```
 **Correct Output**
 ```
@@ -443,11 +443,11 @@
 ```
 ---
 ### Test case 28: OK
-**Correct Time :** 7.15 ms
-**Test Time :** 6.16 ms
+**Correct Time :** 6.57 ms
+**Test Time :** 7.01 ms
 **Input**
 ```
-45
+170945
 ```
 **Correct Output**
 ```
@@ -459,11 +459,11 @@
 ```
 ---
 ### Test case 29: OK
-**Correct Time :** 8.05 ms
-**Test Time :** 6.74 ms
+**Correct Time :** 6.97 ms
+**Test Time :** 6.56 ms
 **Input**
 ```
-69
+254369
 ```
 **Correct Output**
 ```
@@ -475,11 +475,11 @@
 ```
 ---
 ### Test case 30: OK
-**Correct Time :** 6.85 ms
-**Test Time :** 7.12 ms
+**Correct Time :** 6.54 ms
+**Test Time :** 6.55 ms
 **Input**
 ```
-55
+4555
 ```
 **Correct Output**
 ```
@@ -491,11 +491,11 @@
 ```
 ---
 ### Test case 31: OK
-**Correct Time :** 7.01 ms
-**Test Time :** 6.91 ms
+**Correct Time :** 6.52 ms
+**Test Time :** 6.82 ms
 **Input**
 ```
-83
+120683
 ```
 **Correct Output**
 ```
@@ -507,11 +507,11 @@
 ```
 ---
 ### Test case 32: OK
-**Correct Time :** 8.34 ms
-**Test Time :** 7.37 ms
+**Correct Time :** 6.62 ms
+**Test Time :** 6.60 ms
 **Input**
 ```
-3
+171403
 ```
 **Correct Output**
 ```
@@ -523,11 +523,11 @@
 ```
 ---
 ### Test case 33: OK
-**Correct Time :** 7.02 ms
-**Test Time :** 6.54 ms
+**Correct Time :** 9.90 ms
+**Test Time :** 10.03 ms
 **Input**
 ```
-31
+287531
 ```
 **Correct Output**
 ```
@@ -539,11 +539,11 @@
 ```
 ---
 ### Test case 34: OK
-**Correct Time :** 7.41 ms
-**Test Time :** 6.92 ms
+**Correct Time :** 6.56 ms
+**Test Time :** 6.75 ms
 **Input**
 ```
-55
+370955
 ```
 **Correct Output**
 ```
@@ -555,11 +555,11 @@
 ```
 ---
 ### Test case 35: OK
-**Correct Time :** 7.37 ms
-**Test Time :** 6.73 ms
+**Correct Time :** 6.98 ms
+**Test Time :** 6.58 ms
 **Input**
 ```
-79
+454379
 ```
 **Correct Output**
 ```
@@ -571,11 +571,11 @@
 ```
 ---
 ### Test case 36: OK
-**Correct Time :** 7.10 ms
-**Test Time :** 7.62 ms
+**Correct Time :** 6.96 ms
+**Test Time :** 7.12 ms
 **Input**
 ```
-3
+537803
 ```
 **Correct Output**
 ```
@@ -587,12 +587,12 @@
 ```
 ---
 ### Test case 37: Wrong Answer
-**Message:** 1st lines differ - expected: '0', found: '1'
-**Correct Time :** 7.52 ms
-**Test Time :** 7.21 ms
+**Message:** expected 0, found 1
+**Correct Time :** 6.54 ms
+**Test Time :** 6.55 ms
 **Input**
 ```
-32
+653932
 ```
 **Correct Output**
 ```
@@ -604,12 +604,12 @@
 ```
 ---
 ### Test case 38: Wrong Answer
-**Message:** 1st lines differ - expected: '0', found: '1'
-**Correct Time :** 7.87 ms
-**Test Time :** 7.08 ms
+**Message:** expected 0, found 1
+**Correct Time :** 6.56 ms
+**Test Time :** 6.53 ms
 **Input**
 ```
-60
+770060
 ```
 **Correct Output**
 ```
@@ -621,12 +621,12 @@
 ```
 ---
 ### Test case 39: Wrong Answer
-**Message:** 1st lines differ - expected: '0', found: '1'
-**Correct Time :** 7.53 ms
-**Test Time :** 6.89 ms
+**Message:** expected 0, found 1
+**Correct Time :** 6.65 ms
+**Test Time :** 6.55 ms
 **Input**
 ```
-80
+820780
 ```
 **Correct Output**
 ```
@@ -638,12 +638,12 @@
 ```
 ---
 ### Test case 40: Wrong Answer
-**Message:** 1st lines differ - expected: '0', found: '1'
-**Correct Time :** 6.87 ms
-**Test Time :** 6.32 ms
+**Message:** expected 0, found 1
+**Correct Time :** 6.76 ms
+**Test Time :** 6.74 ms
 **Input**
 ```
-70
+603670
 ```
 **Correct Output**
 ```
@@ -655,12 +655,12 @@
 ```
 ---
 ### Test case 41: Wrong Answer
-**Message:** 1st lines differ - expected: '0', found: '1'
-**Correct Time :** 7.48 ms
-**Test Time :** 6.18 ms
+**Message:** expected 0, found 1
+**Correct Time :** 6.56 ms
+**Test Time :** 6.71 ms
 **Input**
 ```
-94
+687094
 ```
 **Correct Output**
 ```
@@ -672,12 +672,12 @@
 ```
 ---
 ### Test case 42: Wrong Answer
-**Message:** 1st lines differ - expected: '0', found: '1'
-**Correct Time :** 7.07 ms
-**Test Time :** 6.35 ms
+**Message:** expected 0, found 1
+**Correct Time :** 6.62 ms
+**Test Time :** 6.65 ms
 **Input**
 ```
-18
+770518
 ```
 **Correct Output**
 ```
@@ -689,12 +689,12 @@
 ```
 ---
 ### Test case 43: Wrong Answer
-**Message:** 1st lines differ - expected: '0', found: '1'
-**Correct Time :** 7.66 ms
-**Test Time :** 6.82 ms
+**Message:** expected 0, found 1
+**Correct Time :** 6.58 ms
+**Test Time :** 6.57 ms
 **Input**
 ```
-46
+886646
 ```
 **Correct Output**
 ```
@@ -706,12 +706,12 @@
 ```
 ---
 ### Test case 44: Wrong Answer
-**Message:** 1st lines differ - expected: '0', found: '1'
-**Correct Time :** 7.62 ms
-**Test Time :** 6.69 ms
+**Message:** expected 0, found 1
+**Correct Time :** 6.57 ms
+**Test Time :** 6.55 ms
 **Input**
 ```
-70
+970070
 ```
 **Correct Output**
 ```
@@ -723,12 +723,12 @@
 ```
 ---
 ### Test case 45: Wrong Answer
-**Message:** 1st lines differ - expected: '0', found: '1'
-**Correct Time :** 6.97 ms
-**Test Time :** 6.18 ms
+**Message:** expected 0, found 1
+**Correct Time :** 6.67 ms
+**Test Time :** 6.62 ms
 **Input**
 ```
-94
+53494
 ```
 **Correct Output**
 ```
@@ -740,12 +740,12 @@
 ```
 ---
 ### Test case 46: Wrong Answer
-**Message:** 1st lines differ - expected: '0', found: '1'
-**Correct Time :** 6.97 ms
-**Test Time :** 6.17 ms
+**Message:** expected 0, found 1
+**Correct Time :** 6.84 ms
+**Test Time :** 6.76 ms
 **Input**
 ```
-18
+136918
 ```
 **Correct Output**
 ```
@@ -757,12 +757,12 @@
 ```
 ---
 ### Test case 47: Wrong Answer
-**Message:** 1st lines differ - expected: '0', found: '1'
-**Correct Time :** 7.22 ms
-**Test Time :** 6.61 ms
+**Message:** expected 0, found 1
+**Correct Time :** 9.16 ms
+**Test Time :** 6.76 ms
 **Input**
 ```
-46
+253046
 ```
 **Correct Output**
 ```
@@ -774,12 +774,12 @@
 ```
 ---
 ### Test case 48: Wrong Answer
-**Message:** 1st lines differ - expected: '0', found: '1'
-**Correct Time :** 7.65 ms
-**Test Time :** 6.49 ms
+**Message:** expected 0, found 1
+**Correct Time :** 6.65 ms
+**Test Time :** 6.63 ms
 **Input**
 ```
-74
+369174
 ```
 **Correct Output**
 ```
@@ -791,12 +791,12 @@
 ```
 ---
 ### Test case 49: Wrong Answer
-**Message:** 1st lines differ - expected: '0', found: '1'
-**Correct Time :** 7.53 ms
-**Test Time :** 6.18 ms
+**Message:** expected 0, found 1
+**Correct Time :** 6.66 ms
+**Test Time :** 6.61 ms
 **Input**
 ```
-94
+419894
 ```
 **Correct Output**
 ```
@@ -808,836 +808,11 @@
 ```
 ---
 ### Test case 50: OK
-**Correct Time :** 7.38 ms
-**Test Time :** 6.12 ms
-**Input**
-```
-81
-```
-**Correct Output**
-```
-1
-```
-**Test Output**
-```
-1
-```
----
-### Test case 51: OK
-**Correct Time :** 7.65 ms
-**Test Time :** 8.34 ms
-**Input**
-```
-9
-```
-**Correct Output**
-```
-1
-```
-**Test Output**
-```
-1
-```
----
-### Test case 52: OK
-**Correct Time :** 7.08 ms
-**Test Time :** 6.06 ms
-**Input**
-```
-33
-```
-**Correct Output**
-```
-1
-```
-**Test Output**
-```
-1
-```
----
-### Test case 53: OK
-**Correct Time :** 6.83 ms
-**Test Time :** 6.15 ms
-**Input**
-```
-61
-```
-**Correct Output**
-```
-1
-```
-**Test Output**
-```
-1
-```
----
-### Test case 54: OK
-**Correct Time :** 8.23 ms
-**Test Time :** 7.82 ms
-**Input**
-```
-81
-```
-**Correct Output**
-```
-1
-```
-**Test Output**
-```
-1
-```
----
-### Test case 55: OK
-**Correct Time :** 6.97 ms
-**Test Time :** 6.54 ms
-**Input**
-```
-9
-```
-**Correct Output**
-```
-1
-```
-**Test Output**
-```
-1
-```
----
-### Test case 56: OK
-**Correct Time :** 6.96 ms
-**Test Time :** 6.70 ms
-**Input**
-```
-33
-```
-**Correct Output**
-```
-1
-```
-**Test Output**
-```
-1
-```
----
-### Test case 57: OK
-**Correct Time :** 10.73 ms
-**Test Time :** 6.68 ms
-**Input**
-```
-61
-```
-**Correct Output**
-```
-1
-```
-**Test Output**
-```
-1
-```
----
-### Test case 58: OK
-**Correct Time :** 7.39 ms
-**Test Time :** 6.27 ms
-**Input**
-```
-85
-```
-**Correct Output**
-```
-1
-```
-**Test Output**
-```
-1
-```
----
-### Test case 59: OK
-**Correct Time :** 7.46 ms
-**Test Time :** 6.15 ms
-**Input**
-```
-9
-```
-**Correct Output**
-```
-1
-```
-**Test Output**
-```
-1
-```
----
-### Test case 60: Wrong Answer
-**Message:** 1st lines differ - expected: '0', found: '1'
-**Correct Time :** 7.29 ms
-**Test Time :** 6.78 ms
-**Input**
-```
-4
-```
-**Correct Output**
-```
-0
-```
-**Test Output**
-```
-1
-```
----
-### Test case 61: Wrong Answer
-**Message:** 1st lines differ - expected: '0', found: '1'
-**Correct Time :** 7.31 ms
-**Test Time :** 6.15 ms
-**Input**
-```
-32
-```
-**Correct Output**
-```
-0
-```
-**Test Output**
-```
-1
-```
----
-### Test case 62: Wrong Answer
-**Message:** 1st lines differ - expected: '0', found: '1'
-**Correct Time :** 6.85 ms
-**Test Time :** 6.07 ms
-**Input**
-```
-56
-```
-**Correct Output**
-```
-0
-```
-**Test Output**
-```
-1
-```
----
-### Test case 63: Wrong Answer
-**Message:** 1st lines differ - expected: '0', found: '1'
-**Correct Time :** 6.94 ms
-**Test Time :** 6.38 ms
-**Input**
-```
-84
-```
-**Correct Output**
-```
-0
-```
-**Test Output**
-```
-1
-```
----
-### Test case 64: Wrong Answer
-**Message:** 1st lines differ - expected: '0', found: '1'
-**Correct Time :** 8.39 ms
-**Test Time :** 6.25 ms
-**Input**
-```
-4
-```
-**Correct Output**
-```
-0
-```
-**Test Output**
-```
-1
-```
----
-### Test case 65: Wrong Answer
-**Message:** 1st lines differ - expected: '0', found: '1'
-**Correct Time :** 7.92 ms
-**Test Time :** 6.79 ms
-**Input**
-```
-32
-```
-**Correct Output**
-```
-0
-```
-**Test Output**
-```
-1
-```
----
-### Test case 66: Wrong Answer
-**Message:** 1st lines differ - expected: '0', found: '1'
-**Correct Time :** 7.58 ms
-**Test Time :** 6.83 ms
-**Input**
-```
-56
-```
-**Correct Output**
-```
-0
-```
-**Test Output**
-```
-1
-```
----
-### Test case 67: Wrong Answer
-**Message:** 1st lines differ - expected: '0', found: '1'
-**Correct Time :** 7.97 ms
-**Test Time :** 7.25 ms
-**Input**
-```
-80
-```
-**Correct Output**
-```
-0
-```
-**Test Output**
-```
-1
-```
----
-### Test case 68: Wrong Answer
-**Message:** 1st lines differ - expected: '0', found: '1'
-**Correct Time :** 7.71 ms
-**Test Time :** 8.48 ms
-**Input**
-```
-8
-```
-**Correct Output**
-```
-0
-```
-**Test Output**
-```
-1
-```
----
-### Test case 69: Wrong Answer
-**Message:** 1st lines differ - expected: '0', found: '1'
-**Correct Time :** 8.43 ms
-**Test Time :** 7.21 ms
-**Input**
-```
-32
-```
-**Correct Output**
-```
-0
-```
-**Test Output**
-```
-1
-```
----
-### Test case 70: Wrong Answer
-**Message:** 1st lines differ - expected: '0', found: '1'
-**Correct Time :** 7.81 ms
-**Test Time :** 7.46 ms
-**Input**
-```
-18
-```
-**Correct Output**
-```
-0
-```
-**Test Output**
-```
-1
-```
----
-### Test case 71: Wrong Answer
-**Message:** 1st lines differ - expected: '0', found: '1'
-**Correct Time :** 15.40 ms
-**Test Time :** 8.74 ms
-**Input**
-```
-46
-```
-**Correct Output**
-```
-0
-```
-**Test Output**
-```
-1
-```
----
-### Test case 72: Wrong Answer
-**Message:** 1st lines differ - expected: '0', found: '1'
-**Correct Time :** 16.92 ms
-**Test Time :** 7.08 ms
-**Input**
-```
-70
-```
-**Correct Output**
-```
-0
-```
-**Test Output**
-```
-1
-```
----
-### Test case 73: Wrong Answer
-**Message:** 1st lines differ - expected: '0', found: '1'
-**Correct Time :** 9.33 ms
-**Test Time :** 17.19 ms
-**Input**
-```
-94
-```
-**Correct Output**
-```
-0
-```
-**Test Output**
-```
-1
-```
----
-### Test case 74: Wrong Answer
-**Message:** 1st lines differ - expected: '0', found: '1'
-**Correct Time :** 8.27 ms
-**Test Time :** 14.94 ms
-**Input**
-```
-18
-```
-**Correct Output**
-```
-0
-```
-**Test Output**
-```
-1
-```
----
-### Test case 75: OK
-**Correct Time :** 8.36 ms
-**Test Time :** 7.32 ms
-**Input**
-```
-47
-```
-**Correct Output**
-```
-1
-```
-**Test Output**
-```
-1
-```
----
-### Test case 76: OK
-**Correct Time :** 7.57 ms
-**Test Time :** 6.98 ms
-**Input**
-```
-71
-```
-**Correct Output**
-```
-1
-```
-**Test Output**
-```
-1
-```
----
-### Test case 77: OK
-**Correct Time :** 7.06 ms
+**Correct Time :** 6.64 ms
 **Test Time :** 6.59 ms
 **Input**
 ```
-95
-```
-**Correct Output**
-```
-1
-```
-**Test Output**
-```
-1
-```
----
-### Test case 78: OK
-**Correct Time :** 8.03 ms
-**Test Time :** 6.90 ms
-**Input**
-```
-23
-```
-**Correct Output**
-```
-1
-```
-**Test Output**
-```
-1
-```
----
-### Test case 79: OK
-**Correct Time :** 7.99 ms
-**Test Time :** 7.64 ms
-**Input**
-```
-47
-```
-**Correct Output**
-```
-1
-```
-**Test Output**
-```
-1
-```
----
-### Test case 80: OK
-**Correct Time :** 7.19 ms
-**Test Time :** 6.31 ms
-**Input**
-```
-33
-```
-**Correct Output**
-```
-1
-```
-**Test Output**
-```
-1
-```
----
-### Test case 81: OK
-**Correct Time :** 6.92 ms
-**Test Time :** 6.04 ms
-**Input**
-```
-61
-```
-**Correct Output**
-```
-1
-```
-**Test Output**
-```
-1
-```
----
-### Test case 82: OK
-**Correct Time :** 7.49 ms
-**Test Time :** 6.83 ms
-**Input**
-```
-81
-```
-**Correct Output**
-```
-1
-```
-**Test Output**
-```
-1
-```
----
-### Test case 83: OK
-**Correct Time :** 7.03 ms
-**Test Time :** 6.86 ms
-**Input**
-```
-9
-```
-**Correct Output**
-```
-1
-```
-**Test Output**
-```
-1
-```
----
-### Test case 84: OK
-**Correct Time :** 7.28 ms
-**Test Time :** 6.16 ms
-**Input**
-```
-33
-```
-**Correct Output**
-```
-1
-```
-**Test Output**
-```
-1
-```
----
-### Test case 85: OK
-**Correct Time :** 9.00 ms
-**Test Time :** 10.09 ms
-**Input**
-```
-61
-```
-**Correct Output**
-```
-1
-```
-**Test Output**
-```
-1
-```
----
-### Test case 86: OK
-**Correct Time :** 6.99 ms
-**Test Time :** 6.25 ms
-**Input**
-```
-81
-```
-**Correct Output**
-```
-1
-```
-**Test Output**
-```
-1
-```
----
-### Test case 87: OK
-**Correct Time :** 7.59 ms
-**Test Time :** 7.05 ms
-**Input**
-```
-9
-```
-**Correct Output**
-```
-1
-```
-**Test Output**
-```
-1
-```
----
-### Test case 88: OK
-**Correct Time :** 6.94 ms
-**Test Time :** 6.58 ms
-**Input**
-```
-33
-```
-**Correct Output**
-```
-1
-```
-**Test Output**
-```
-1
-```
----
-### Test case 89: OK
-**Correct Time :** 7.10 ms
-**Test Time :** 6.04 ms
-**Input**
-```
-61
-```
-**Correct Output**
-```
-1
-```
-**Test Output**
-```
-1
-```
----
-### Test case 90: Wrong Answer
-**Message:** 1st lines differ - expected: '0', found: '1'
-**Correct Time :** 9.13 ms
-**Test Time :** 8.97 ms
-**Input**
-```
-48
-```
-**Correct Output**
-```
-0
-```
-**Test Output**
-```
-1
-```
----
-### Test case 91: Wrong Answer
-**Message:** 1st lines differ - expected: '0', found: '1'
-**Correct Time :** 10.70 ms
-**Test Time :** 6.93 ms
-**Input**
-```
-76
-```
-**Correct Output**
-```
-0
-```
-**Test Output**
-```
-1
-```
----
-### Test case 92: Wrong Answer
-**Message:** 1st lines differ - expected: '0', found: '1'
-**Correct Time :** 12.10 ms
-**Test Time :** 6.87 ms
-**Input**
-```
-96
-```
-**Correct Output**
-```
-0
-```
-**Test Output**
-```
-1
-```
----
-### Test case 93: Wrong Answer
-**Message:** 1st lines differ - expected: '0', found: '1'
-**Correct Time :** 18.00 ms
-**Test Time :** 9.01 ms
-**Input**
-```
-24
-```
-**Correct Output**
-```
-0
-```
-**Test Output**
-```
-1
-```
----
-### Test case 94: Wrong Answer
-**Message:** 1st lines differ - expected: '0', found: '1'
-**Correct Time :** 9.58 ms
-**Test Time :** 9.20 ms
-**Input**
-```
-48
-```
-**Correct Output**
-```
-0
-```
-**Test Output**
-```
-1
-```
----
-### Test case 95: Wrong Answer
-**Message:** 1st lines differ - expected: '0', found: '1'
-**Correct Time :** 7.35 ms
-**Test Time :** 7.26 ms
-**Input**
-```
-72
-```
-**Correct Output**
-```
-0
-```
-**Test Output**
-```
-1
-```
----
-### Test case 96: Wrong Answer
-**Message:** 1st lines differ - expected: '0', found: '1'
-**Correct Time :** 8.74 ms
-**Test Time :** 8.29 ms
-**Input**
-```
-96
-```
-**Correct Output**
-```
-0
-```
-**Test Output**
-```
-1
-```
----
-### Test case 97: Wrong Answer
-**Message:** 1st lines differ - expected: '0', found: '1'
-**Correct Time :** 7.29 ms
-**Test Time :** 6.02 ms
-**Input**
-```
-24
-```
-**Correct Output**
-```
-0
-```
-**Test Output**
-```
-1
-```
----
-### Test case 98: Wrong Answer
-**Message:** 1st lines differ - expected: '0', found: '1'
-**Correct Time :** 7.10 ms
-**Test Time :** 6.30 ms
-**Input**
-```
-48
-```
-**Correct Output**
-```
-0
-```
-**Test Output**
-```
-1
-```
----
-### Test case 99: Wrong Answer
-**Message:** 1st lines differ - expected: '0', found: '1'
-**Correct Time :** 8.42 ms
-**Test Time :** 9.22 ms
-**Input**
-```
-72
-```
-**Correct Output**
-```
-0
-```
-**Test Output**
-```
-1
-```
----
-### Test case 100: OK
-**Correct Time :** 6.88 ms
-**Test Time :** 6.02 ms
-**Input**
-```
-15
+170081
 ```
 **Correct Output**
 ```

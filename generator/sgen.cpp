@@ -9,7 +9,7 @@
  * It is typical behaviour of testlib generator to setup randseed by command line.
  */
 
-#include "testlib.h"
+#include "../lib/testlib.h"
 
 using namespace std;
 

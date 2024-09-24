@@ -1,4 +1,4 @@
-#include "testlib.h"
+#include "../lib/testlib.h"
 #include <string>
 
 using namespace std;

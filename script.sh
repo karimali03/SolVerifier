@@ -14,6 +14,10 @@ fi
 if [ -z "$1" ]; then
     read_input
 else 
+    if [[ "$1" == "-h" ]] || [[ "$1" == "--help" ]]; then
+        print_yellow "Usage: ./script.sh <correct_solution> <test_solution> <generator> <checker> <number_of_test_cases>"
+        exit 0
+    fi
     if [ -z $2 ] || [ -z $3 ] || [ -z $4 ] || [ -z $5 ]; then
         print_bold_red "Error : there should be 5 arguments"
         print_yellow "Usage: ./script.sh <correct_solution> <test_solution> <generator> <checker> <number_of_test_cases>"

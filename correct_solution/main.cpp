@@ -6,6 +6,6 @@ using namespace std;
 
 int main(){
     int x; cin>>x;
-    cout<<x+4<<endl;
+    cout<<(x&1)<<endl;
     return 0;
 }

@@ -2,6 +2,8 @@
 
 **SolVerifier** is a Bash script-based verification tool designed to compare two solutions by generating test cases and verifying their correctness. It uses a solution generator to create a variety of test cases, runs both the correct and test solutions against them, and employs a checker to validate the outputs. This makes **SolVerifier** a powerful utility for verifying the accuracy of algorithms in competitive programming and software development projects.
 
+[![YouTube](http://i.ytimg.com/vi/Gi9_80gqT70/hqdefault.jpg)](https://www.youtube.com/watch?v=Gi9_80gqT70)
+
 ## Supported Languages
 
 SolVerifier supports writing solutions in the following programming languages:
@@ -12,7 +14,7 @@ SolVerifier supports writing solutions in the following programming languages:
 - JavaScript
 - Python
 
-## Use Cases
+## Features
 
 1. **Check solution correctness**  
    You want to check if a solution is correct by comparing its output to a known correct solution.
@@ -21,7 +23,7 @@ SolVerifier supports writing solutions in the following programming languages:
    If your solution is wrong, you can generate a specific test case that reveals the error.
 
 3. **Determine the correctness percentage**  
-   You want to know how often a solution gives the correct output (as a percentage of test cases).
+   You want to know how often a solution gives the correct output .
 
 4. **Compare time performance of two solutions**  
    You can compare the time performance of two solutions, including minimum, maximum, and average times.

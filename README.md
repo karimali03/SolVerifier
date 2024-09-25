@@ -53,3 +53,7 @@ SolVerifier supports writing solutions in the following programming languages:
    ```
 6. Review results
 Detailed results, including comparison metrics, will be saved in the `./results` folder.
+
+## Documentation
+- [Checkers](docs/checkers.md)
+- [Generators](docs/generators.md)

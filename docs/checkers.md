@@ -1,5 +1,4 @@
 # Checkers
-
 This repository contains various solution checkers implemented in C++. These checkers are designed to compare outputs of solutions against expected outputs with specific criteria.
 
 ## Checker Descriptions
